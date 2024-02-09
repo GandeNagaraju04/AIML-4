@@ -1,1 +1,1 @@
-##[assignment 1 part1]https://colab.research.google.com/github/GandeNagaraju04/AIML-4/blob/main/assignment1.ipynb
+##[assignmnet part 1]https://github.com/GandeNagaraju04/AIML-4/blob/main/assignment-1-part-1.ipynb
